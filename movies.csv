@@ -1429,7 +1429,7 @@ movieId,title,genres
 1950,In the Heat of the Night (1967),Drama|Mystery
 1951,Oliver! (1968),Drama|Musical
 1952,Midnight Cowboy (1969),Drama
-1953,"French Connection, The (1971)",Action|Crime|Thriller
+1953,"The French Connection (1971)",Action|Crime|Thriller
 1954,Rocky (1976),Drama
 1955,Kramer vs. Kramer (1979),Drama
 1956,Ordinary People (1980),Drama
@@ -9741,4 +9741,5 @@ movieId,title,genres
 193585,Flint (2017),Drama
 193587,Bungo Stray Dogs: Dead Apple (2018),Action|Animation
 193609,Andrew Dice Clay: Dice Rules (1991),Comedy
+
 
